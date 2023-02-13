@@ -1,6 +1,6 @@
 [submodule "astar_pathfinding"]
 	path = astar_pathfinding
-	url = ./astar_pathfinding
+	url = ssh://git@github.com/Daniel-Boll/astar_pathfinding
 [submodule "game"]
 	path = game
-	url = ./npcs-ai-game
+	url = ssh://git@github.com/Daniel-Boll/npcs-ai-game
