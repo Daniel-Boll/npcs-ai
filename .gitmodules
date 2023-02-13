@@ -1,0 +1,6 @@
+[submodule "astar_pathfinding"]
+	path = astar_pathfinding
+	url = ./astar_pathfinding
+[submodule "game"]
+	path = game
+	url = ./npcs-ai-game
